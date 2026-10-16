@@ -59,4 +59,4 @@ The data file remains under CC BY 4.0. The licence below applies to the source c
 
 ## Licence
 
-(Choose a licence for the source code, for example MIT, and state it here.)
+The source code is released under the MIT License (see `LICENSE`). Copyright (c) 2026 Farid Morsidi.
