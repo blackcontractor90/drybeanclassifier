@@ -51,8 +51,12 @@ Feature order in the code: Area, Perimeter, MajorAxisLength, MinorAxisLength, Co
 
 ## Data
 
-The Dry Bean dataset is by Koklu and Ozkan (2020), *Computers and Electronics in Agriculture*, 174, 105507, https://doi.org/10.1016/j.compag.2020.105507. It is distributed through the UCI Machine Learning Repository; check its licence terms before redistributing the data file.
+`TestBeanDataset1.txt` is derived from the Dry Bean dataset by Koklu and Ozkan (2020), *Computers and Electronics in Agriculture*, 174, 105507, https://doi.org/10.1016/j.compag.2020.105507, obtained from the UCI Machine Learning Repository. The original dataset is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.
+
+Changes made: the file keeps all 13,611 samples but only 8 of the original 16 features (Area, Perimeter, MajorAxisLength, MinorAxisLength, ConvexArea, EquivDiameter, ShapeFactor1, ShapeFactor3) plus the class label, stored as space-separated text.
+
+The data file remains under CC BY 4.0. The licence below applies to the source code only.
 
 ## Licence
 
-(Choose a licence for the code, for example MIT, and state it here.)
+(Choose a licence for the source code, for example MIT, and state it here.)
